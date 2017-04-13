@@ -13,6 +13,7 @@
 #import "PaymentViewController.h"
 #import "StripeNativeManager.h"
 
+
 @import PassKit;
 
 NSString *const StripeNativeDomain = @"com.lockehart.lib.StripeNative";
